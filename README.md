@@ -1,9 +1,4 @@
-**Imię i nazwisko:** Jakub Pranica **Grupa:** Informatyka - 13i **Data:**
-24-04-2017 **Przedmiot:** Metody Programowania
-
-**Wykładowca:** dr inż. Zbigniew Kokosiński **Semestr:** 2
-
-**Temat:** Napisać algorytm kodujący podany przez użytkownika tekst za pomocą
+**Temat:** Algorytm kodujący podany przez użytkownika tekst za pomocą
 algorytmu Huffmana.
 
 **Kodowanie Huffmana** to jedna z najprostszych i łatwych w implementacji metod
